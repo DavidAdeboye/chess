@@ -1831,3 +1831,5 @@ function isEven(value) {
 
 // =======================================================
 ReactDOM.render(<Game />, document.getElementById("root"));
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8396830762324538"
+     crossorigin="anonymous"></script>
